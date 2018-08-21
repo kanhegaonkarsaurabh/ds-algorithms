@@ -1,5 +1,6 @@
-""" Insertion Sort: Time - O(n^2)
-          Space - O(1)  (in-place sort)
+""" 
+    Time - O(n^2)
+    Space - O(1)  (in-place sort)
 """
 
 def insertion_sort(nums):
