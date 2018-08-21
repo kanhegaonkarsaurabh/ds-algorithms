@@ -7,4 +7,4 @@ the inspired sources are given in the index below.
 
 ### Sorting
 
-[Insertion Sort]()
+[Insertion Sort](https://github.com/kanhegaonkarsaurabh/ds-algorithms/blob/master/sorting/insert.py)
